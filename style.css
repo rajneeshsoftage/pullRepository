@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.color{
+  background-color: magenta;
+  color: yellow;
+}
+
+.box{
+  border: 2px solid black;
+  boder-radius: 15px;
+}
